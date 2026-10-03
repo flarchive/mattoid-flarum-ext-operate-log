@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of mattoid/flarum-ext-operate-log.** Not for installation: use [Packagist](https://packagist.org/packages/mattoid/flarum-ext-operate-log) or the [upstream repository](https://github.com/Mattoids/flarum-ext-operate-log).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/mattoid-flarum-ext-operate-log/tree/archive/v1.0.2) · License: `LPL-1.02` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/mattoid-flarum-ext-operate-log/tree/archive/v1.0.2) · License: `LPL-1.02` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-12-12 | `^1.2.0` | [Browse](https://github.com/flarchive/mattoid-flarum-ext-operate-log/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-12-13 | `^1.2.0` | [Browse](https://github.com/flarchive/mattoid-flarum-ext-operate-log/tree/archive/v1.0.1) |
+| `v1.0.2` | 2023-12-14 | `^1.2.0` | [Browse](https://github.com/flarchive/mattoid-flarum-ext-operate-log/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/mattoid-flarum-ext-operate-log.json](https://github.com/flarchive/archive-index/blob/main/packages/mattoid-flarum-ext-operate-log.json)
 
